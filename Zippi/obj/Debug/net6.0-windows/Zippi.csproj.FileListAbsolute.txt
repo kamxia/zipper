@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Zippi\Zippi\obj\Debug\net6.0-windows\Zippi.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Zippi\Zippi\obj\Debug\net6.0-windows\Zippi.Form1.resources
+C:\Users\admin\source\repos\Zippi\Zippi\obj\Debug\net6.0-windows\Zippi.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Zippi\Zippi\obj\Debug\net6.0-windows\Zippi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Zippi\Zippi\obj\Debug\net6.0-windows\Zippi.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Zippi\Zippi\obj\Debug\net6.0-windows\Zippi.AssemblyInfo.cs
+C:\Users\admin\source\repos\Zippi\Zippi\obj\Debug\net6.0-windows\Zippi.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Zippi\Zippi\bin\Debug\net6.0-windows\Zippi.exe
+C:\Users\admin\source\repos\Zippi\Zippi\bin\Debug\net6.0-windows\Zippi.deps.json
+C:\Users\admin\source\repos\Zippi\Zippi\bin\Debug\net6.0-windows\Zippi.runtimeconfig.json
+C:\Users\admin\source\repos\Zippi\Zippi\bin\Debug\net6.0-windows\Zippi.dll
+C:\Users\admin\source\repos\Zippi\Zippi\bin\Debug\net6.0-windows\Zippi.pdb
+C:\Users\admin\source\repos\Zippi\Zippi\obj\Debug\net6.0-windows\Zippi.dll
+C:\Users\admin\source\repos\Zippi\Zippi\obj\Debug\net6.0-windows\refint\Zippi.dll
+C:\Users\admin\source\repos\Zippi\Zippi\obj\Debug\net6.0-windows\Zippi.pdb
+C:\Users\admin\source\repos\Zippi\Zippi\obj\Debug\net6.0-windows\Zippi.genruntimeconfig.cache
+C:\Users\admin\source\repos\Zippi\Zippi\obj\Debug\net6.0-windows\ref\Zippi.dll
